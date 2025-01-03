@@ -13,6 +13,7 @@ grub
 hyprland
 hyprpaper
 intel-ucode
+jre-openjdk
 kitty
 lf
 libreoffice-still
@@ -20,6 +21,8 @@ linux
 linux-firmware
 man-db
 man-pages
+minecraft-launcher
+multimc-bin
 nano
 ncpamixer
 neofetch
@@ -30,9 +33,12 @@ pipewire-audio
 sddm
 sddm-sugar-dark
 slurp
+steam
+swaylock-effects
 trash-cli
 ttf-cascadia-code-nerd
 ttf-font-awesome
+unzip
 vi
 vim
 waybar
